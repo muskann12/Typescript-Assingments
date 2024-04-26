@@ -1,0 +1,1 @@
+console.log('Haammad(SAW) once said, "The seeking of knowledge is obligatory upon every Muslim."');
